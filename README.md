@@ -175,7 +175,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Logopony](https://www.logopony.com/) [_[PH]_](https://www.producthunt.com/posts/logopony) - Make your own beautiful logo with AI.
 * [Tailorbrands](https://www.tailorbrands.com/) [_[PH]_](https://www.producthunt.com/posts/tailor-brands) - AI logo maker and brand builder.
 * [Graphic Springs](https://www.graphicsprings.com/) - Free logo maker (pay for high-resolution assets).
-* [Brandbuilder](https://brandbuilder.ai/) - Build a beautiful brand assets online.
+* [Brandbuilder](https://brandbuilder.ai/new) - Build a beautiful brand assets online.
 * [Hatchful by Shopify](https://hatchful.shopify.com/) [_[PH]_](https://www.producthunt.com/posts/hatchful) - Free stunning logo generator by Shopify.
 
 ## Graphics
@@ -503,6 +503,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Codacy](https://www.codacy.com/) [_[PH]_](https://www.producthunt.com/posts/codacy-2) - Improve code quality by automating code reviews.
 * [Algolia](https://www.algolia.com/) [_[PH]_](https://www.producthunt.com/posts/algolia-hosted-search-api) - Building blocks for creating great search.
 * [Cloudflare](https://www.cloudflare.com/) [_[PH]_](https://www.producthunt.com/posts/cloudflare) - The web performance & security company.
+* [Logit.io](https://www.logit.io/) [_[PH]_](https://www.producthunt.com/posts/monitor-with-hosted-grafana-logit-io) - Monitor, alert and centralise your data for improved security, troubleshooting and observability.
 * [Let's Encrypt](https://letsencrypt.org/) - Get free SSL. Even *wildcard.
 
 
@@ -578,7 +579,6 @@ via Amazon SES.
 * [Postcards](https://designmodo.com/postcards/) [_[PH]_](https://www.producthunt.com/posts/postcards-2) - Create, edit and manage awesome email newsletters.
 * [GoodBits](https://goodbits.io/) [_[PH]_](https://www.producthunt.com/posts/goodbits) - Build email newsletters with drag and drop and send with Goodbits, MailChimp or other with an HTML Export.
 * [Stripo.email](https://stripo.email/) [_[PH]_](https://www.producthunt.com/posts/stripo-email) - Free email template builder for designers and developers.
-* [Foundation](https://foundation.zurb.com/emails.html) - Responsive HTML emails framework. 
 * [Mailto](https://getmailto.com/) - Responsive html email templates to maximize your website sales.
 
 ### Other email services
@@ -714,7 +714,6 @@ via Amazon SES.
 ## Market research
 * [SimilarWeb](https://www.similarweb.com) [_[PH]_](https://www.producthunt.com/posts/similarweb) 💙
 * [Google Trends](https://trends.google.com) [_[PH]_](https://www.producthunt.com/posts/google-trends-2)
-* [Rank2traffic](https://www.rank2traffic.com)
 * [Crunchbase](https://www.crunchbase.com/) [_[PH]_](https://www.producthunt.com/posts/crunchbase-2-2)
 * [ThinkWithGoogle](https://www.thinkwithgoogle.com/tools)
 * [ConsumerBarometer](https://www.consumerbarometer.com/en) [_[PH]_](https://www.producthunt.com/posts/consumer-barometer)
@@ -753,7 +752,7 @@ via Amazon SES.
 * [Noteplan](https://noteplan.co/) [_[PH]_](https://www.producthunt.com/posts/noteplan)
 * [I Done This](https://idonethis.com/) [_[PH]_](https://www.producthunt.com/posts/i-done-this)
 * [Meistertask](https://www.meistertask.com/) [_[PH]_](https://www.producthunt.com/posts/meistertask-2)
-* [Podio](https://podio.com/site/en) [_[PH]_](https://www.producthunt.com/posts/podio)
+* [Podio](https://podio.com/) [_[PH]_](https://www.producthunt.com/posts/podio)
 * [Proofhub](https://www.proofhub.com/)
 * [Projects by Zoho](https://www.zoho.com/projects/) [_[PH]_](https://www.producthunt.com/posts/zoho-projects)
 * [Gantt pro](https://ganttpro.com/)
@@ -905,7 +904,6 @@ via Amazon SES.
 # Domains and naming
 
 ## Find a domain name
-* [Namemesh](https://namemesh.com) [_[PH]_](https://www.producthunt.com/posts/name-mesh) 💙
 * [Domainr](https://domainr.com/) [_[PH]_](https://www.producthunt.com/posts/domai-nr)
 * [FlameDomain](http://www.flamedomain.com/) [_[PH]_](https://www.producthunt.com/posts/flamedomain)
 * [Dofo](https://dofo.com/) [_[PH]_](https://www.producthunt.com/posts/dofo-com)
