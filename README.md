@@ -642,6 +642,8 @@ via Amazon SES.
 * [Pardot by Salesforce](https://www.pardot.com/) - B2B marketing automation.
 * [Autopilot](https://www.autopilothq.com/) - Marketing automation softwaremade visual.
 * [Marketo by Adobe](https://www.marketo.com/) - ABM combined with industry-leading marketing automation.
+* [Cello](https://cello.so/) - Referral growth platform for B2B SaaS.
+
 
 ## Copy
 * [GoodEmailCopy](http://www.goodemailcopy.com/) - Email copy from great companies.
