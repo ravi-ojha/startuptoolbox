@@ -589,6 +589,7 @@ via Amazon SES.
 * [Sendy](https://sendy.co/) [_[PH]_](https://www.producthunt.com/posts/sendy-4) - Send newsletters, 100x cheaper via Amazon SES.
 * [UglyEmail](https://uglyemail.com/) [_[PH]_](https://www.producthunt.com/posts/ugly-email) - See if an email is being tracked before you open it in Gmail.
 * [Beetle.email](https://beetle.email/) [_[PH]_](https://www.producthunt.com/posts/beetle-email) - Access marketing emails from all the top brands.
+* [Aeroleads](https://aeroleads.com/) - Email prospecting and lead generation tool that provides verified emails of prospects to be used as sales/mareketing intelligence.
 
 ## Blogging & publishing
 * [Ghost](https://ghost.org/) [_[PH]_](https://www.producthunt.com/posts/ghost-2-0) - Open source publishing platform.
