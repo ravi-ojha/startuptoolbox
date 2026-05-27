@@ -185,6 +185,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Pixteller](https://pixteller.com/) [_[PH]_](https://www.producthunt.com/posts/pixteller) - Free Online Photo & Animation Maker.
 * [Stencil](https://getstencil.com/) [_[PH]_](https://www.producthunt.com/posts/stencil) - The fastest way to create and share visual content.
 * [Snappa](https://snappa.com) [_[PH]_](https://www.producthunt.com/posts/snappa-2) - Create online graphics in a snap.
+* [PhotoRestore.ai](https://photorestore.ai) - AI-powered restoration of old and damaged photos — repairs scratches, fading, tears, and colorizes B&W images.
 * [RemoveBg](https://remove.bg) [_[PH]_](https://www.producthunt.com/posts/remove-bg) Remove the background of any image. API or online 💙
 * [EzGIF](https://ezgif.com/) [_[PH]_](https://www.producthunt.com/posts/ezgif) - Resize, crop, and edit GIFs in your browser 💙
 * [BannerSnack](https://www.bannersnack.com/) - The Original Online Banner Maker.
