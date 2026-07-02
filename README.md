@@ -360,6 +360,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Marketing Platform by Google](https://marketingplatform.google.com/about) [_[PH]_](https://www.producthunt.com/posts/google-marketing-platform-2) - Google's unified and improved marketing and analytics tools.
 * [App Analytics by Apple](https://developer.apple.com/app-store-connect/analytics/) - App’s performance and unique insights with data.
 * [Fabric](https://get.fabric.io/) - Understand how your app is doing in real-time.
+* [GetAppNiche](https://getappniche.com/) - iOS App Store intelligence for revenue estimates, ASO keywords and competitor research.
 
 
 # Business Analytics
