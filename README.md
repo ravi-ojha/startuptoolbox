@@ -1044,6 +1044,7 @@ via Amazon SES.
 * [Vwo](https://vwo.com/) [_[PH]_](https://www.producthunt.com/posts/vwo-on-page-surveys)
 * [Omniconvert](https://www.omniconvert.com/)
 * [ABtasty](https://www.abtasty.com/)
+* [Klinky](https://klinky.io) - Link shortener with built-in A/B testing: split one link between two destinations at configurable weights and compare variant click data.
 
 
 # Launch
