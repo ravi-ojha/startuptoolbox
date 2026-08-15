@@ -722,6 +722,7 @@ via Amazon SES.
 * [Apptrace](https://www.apptrace.com/)
 * [Appfollow](https://appfollow.io) [_[PH]_](https://www.producthunt.com/posts/appfollow-4-0)
 * [Alexa](https://www.alexa.com/)
+* [IdeaHunter](https://ideahunter.today/) - Find demand-backed app and micro-SaaS ideas before building.
 
 ## Paid ads
 * [Goa.marketing](https://www.goa.marketing/) - Get actionable data insights on your paid Search in Google Ads.
