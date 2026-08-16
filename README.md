@@ -210,7 +210,6 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 * [Shower](https://github.com/shower/shower) [_[PH]_](https://www.producthunt.com/posts/shower) Open source HTML slide creation and presentation engine.
 * [Slidecamp](https://www.slidecamp.io/) [_[PH]_](https://www.producthunt.com/posts/slidecamp) - Library of PowerPoint slides to kickstart your presentation.
 * [Haikudeck](https://www.haikudeck.com/) [_[PH]_](https://www.producthunt.com/posts/haiku-deck) - Create an amazing presentation on the web, iPad, or iPhone.
-* [Visme](https://www.visme.co/) [_[PH]_](https://www.producthunt.com/posts/visme-3-0) - Create interactive online presentations in HTML5.
 
 ## Stocks
 
@@ -678,6 +677,7 @@ via Amazon SES.
 * [Keyhole](https://keyhole.co/) [_[PH]_](https://www.producthunt.com/posts/keyhole) - Realtime hashtag tracking for Twitter, Facebook, etc.
 * [SeekMetrics](https://seekmetrics.com/) - Free social media analytics and historical data.
 * [SocialInsider](https://www.socialinsider.io/) [_[PH]_](https://www.producthunt.com/posts/socialinsider) - Social media analytics & benchmarking tool for agencies.
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Planners (content managers and schedulers)
 * [Buffer](https://buffer.com/) [_[PH]_](https://www.producthunt.com/posts/buffer-for-instagram) - Plan, track, and analyze your SMM.
