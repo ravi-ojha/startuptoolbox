@@ -371,6 +371,7 @@ Created by Alexander Isora ([Telegram](https://t.me/serene_startup), [Twitter](h
 ## Finance
 * [Poindexter](https://getpoindexter.com/) [_[PH]_](https://www.producthunt.com/posts/poindexter-2) - Automated financial projections for startups.
 * [Paperworks](https://paperworks.io/) [_[PH]_](https://www.producthunt.com/posts/paperworks) - All your receipts, invoices, and payments in one place.
+* [Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice) - Free browser invoice/receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=startuptoolbox-v1) adds white-label PDFs, 6 templates, unlimited batch CLI. [Live demo](https://ytinumoc.github.io/toolkitlabs-invoice/).
 
 
 # Automation
