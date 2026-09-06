@@ -768,6 +768,7 @@ via Amazon SES.
 * [Gain](https://gainapp.com/) - Social media and content collaboration for agencies.
 * [Swello](https://swello.com/) - Social media scheduling and analytics.
 * [Postfity](https://postfity.com/) - With our post scheduler you can manage social networks, schedule posts and engage your audiences.
+* [SocialEcho](https://www.socialecho.net/) - Create, schedule, publish, monitor, and analyze social content across multiple networks with AI.
 
 #### Instagram tools
 
