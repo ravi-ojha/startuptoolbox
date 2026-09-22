@@ -418,6 +418,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Remote](https://remote.com/) - Global employment and payroll for distributed teams.
 * [Gusto](https://gusto.com/) [_[PH]_](https://www.producthunt.com/posts/gusto-2) - Payroll, benefits, and HR.
 * [Jazzhr](https://www.jazzhr.com/) [_[PH]_](https://www.producthunt.com/posts/jazz-hr) - Streamline every stage of your recruitment process.
+* [Allowly Hiring Evidence](https://allowly.ai/solutions/hiring/) - Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs.
 
 ## Forms and surveys
 
