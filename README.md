@@ -811,6 +811,7 @@ via Amazon SES.
 * [Smile](https://smile.io/) - Loyalty and rewards programs for e-commerce.
 * [ReferralCandy](https://www.referralcandy.com/) - Referral marketing for online stores.
 * [Viral-loops](https://viral-loops.com/) [_[PH]_](https://www.producthunt.com/posts/viral-loops-for-startups) - Referral campaign software for launches and waitlists.
+* [Power CM Partners](https://partners.powercm-software.com/) - Software partner network for tracked campaigns and commissions on attributed verified sales.
 ### Other marketing tools
 
 * [WebEngage](https://webengage.com/) - Retention and lifecycle marketing platform.
