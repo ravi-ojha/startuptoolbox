@@ -764,6 +764,7 @@ via Amazon SES.
 * [Buffer](https://buffer.com/) [_[PH]_](https://www.producthunt.com/posts/buffer-for-instagram) - Plan, track, and analyze your SMM.
 * [Amplifr](https://amplifr.com/) [_[PH]_](https://www.producthunt.com/posts/amplifr) - Schedule social media & messages, get actionable analytics.
 * [Sendible](https://www.sendible.com/) - Powerful social media management software.
+* [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics platform.
 * [Edgar](https://meetedgar.com/) - Schedule and automate your content on Facebook, Twitter, Instagram, and LinkedIn.
 * [Gain](https://gainapp.com/) - Social media and content collaboration for agencies.
 * [Swello](https://swello.com/) - Social media scheduling and analytics.
