@@ -499,6 +499,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Netlify](https://www.netlify.com/) [_[PH]_](https://www.producthunt.com/posts/netlify-cms) - Easily deploy modern static websites.
 * [GitLab Pages](https://about.gitlab.com/product/pages/) [_[PH]_](https://www.producthunt.com/posts/gitlab-pages) - Websites for your GitLab projects, groups, or user account.
 * [Linode](https://www.linode.com/) - Cloud-hosting, backup and other services.
+* [Prisma Compute](https://www.prisma.io/compute) - Host TypeScript apps next to Prisma Postgres.
 
 ### Auth
 
@@ -556,6 +557,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Algolia](https://www.algolia.com/) [_[PH]_](https://www.producthunt.com/posts/algolia-hosted-search-api) - Building blocks for creating great search.
 * [Cloudflare](https://www.cloudflare.com/) [_[PH]_](https://www.producthunt.com/posts/cloudflare) - The web performance & security company.
 * [Let's Encrypt](https://letsencrypt.org/) - Get free SSL. Even *wildcard.
+* [Prisma Postgres](https://www.prisma.io/postgres) - Managed Postgres with zero cold starts and free plan.
 
 ## Product building
 
