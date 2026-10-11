@@ -281,6 +281,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Pttrns](https://pttrns.com/) [_[PH]_](https://www.producthunt.com/posts/pttrns) - iPhone and iPad user interface patterns.
 * [Wake](https://wake.com/) - Share, search, store design files.
 * [Zeplin](https://zeplin.io/) [_[PH]_](https://www.producthunt.com/posts/zeplin-2-0) - Collaboration & handoff for UI designers/frontend developers.
+* [Eagle Cool](https://en.eagle.cool/) [_[PH]_](https://www.producthunt.com/posts/eagle-5) - Unify your inspiration and assets in one place.
 
 ## Support and customer communication
 
