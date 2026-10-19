@@ -799,6 +799,7 @@ via Amazon SES.
 * [ThinkWithGoogle](https://www.thinkwithgoogle.com/tools) - Marketing research tools and reports from Google.
 * [Applyzer](https://www.applyzer.com/) [_[PH]_](https://www.producthunt.com/posts/applyzer) - App Store ranking and keyword tracking.
 * [Appfollow](https://appfollow.io) [_[PH]_](https://www.producthunt.com/posts/appfollow-4-0) - App Store reviews, ASO, and competitor tracking.
+* [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 ### Paid ads
 
 * [Goa.marketing](https://www.goa.marketing/) - Get actionable data insights on your paid Search in Google Ads.
