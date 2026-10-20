@@ -775,6 +775,7 @@ via Amazon SES.
 * [MightyScout](https://mightyscout.com/) [_[PH]_](https://www.producthunt.com/posts/mightyscout) - Instagram influencer search and analytics.
 * [Later](https://later.com/) - Visual planner for Instagram, TikTok, and other social channels.
 * [Storyheap](https://storyheap.com/) [_[PH]_](https://www.producthunt.com/posts/storyheap) - Instagram Stories analytics.
+* [IGDataHub](https://igdatahub.com/) - Free Instagram follower history and engagement-rate reports for 2,800+ tracked public accounts.
 ### Track mentions
 
 * [Mention](https://mention.com) [_[PH]_](https://www.producthunt.com/posts/mention-influencers-dashboard) - Track brand mentions across the web and social. 💙
