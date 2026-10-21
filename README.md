@@ -758,6 +758,7 @@ via Amazon SES.
 * [Fastory](https://www.fastory.io/) [_[PH]_](https://www.producthunt.com/posts/fastory) - Craft stunning Instagram stories, share them everywhere.
 * [Keyhole](https://keyhole.co/) [_[PH]_](https://www.producthunt.com/posts/keyhole) - Realtime hashtag tracking for Twitter, Facebook, etc.
 * [SocialInsider](https://www.socialinsider.io/) [_[PH]_](https://www.producthunt.com/posts/socialinsider) - Social media analytics & benchmarking tool for agencies.
+* [OpenSparta](https://opensparta.com/en) - Telegram operations workspace for discovering relevant conversations and managing connected accounts and proxies.
 
 #### Planners (content managers and schedulers)
 
