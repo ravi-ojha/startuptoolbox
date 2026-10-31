@@ -1110,6 +1110,7 @@ via Amazon SES.
 * [Indie Hackers](https://indiehackers.com) [_[PH]_](https://www.producthunt.com/posts/indie-hackers) - Community and stories from bootstrapped founders. 💙
 * [Places to Post a Startup](https://github.com/mmccaff/PlacesToPostYourStartup) - Community-maintained list of places to announce a launch.
 * [Startup Promotion List](https://github.com/trekhleb/promote-your-next-startup) - Another curated list of launch and promotion channels.
+* [CodeTrendy](https://codetrendy.com/) - Directory where builders list and discover new startups, dev tools and online products.
 
 ## Other
 
