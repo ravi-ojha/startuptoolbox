@@ -380,6 +380,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Applause](https://www.applause.com/) - Test any device/OS combination in the world.
 * [Appfigures](https://appfigures.com/) [_[PH]_](https://www.producthunt.com/posts/appfigures-for-iphone) - App analytics and ASO.
 * [data.ai](https://www.data.ai/) - App Store and Google Play market intelligence. Formerly App Annie.
+* [App Store Localizer](https://asolocalization.com/) - Localize App Store screenshots and metadata into 20+ languages from a public listing URL. One-time pricing, no subscription.
 * [Amplitude](https://amplitude.com/) [_[PH]_](https://www.producthunt.com/posts/amplitude-mobile-analytics) - Mobile analytics without worrying about data volume.
 * [Apptopia](https://apptopia.com/) [_[PH]_](https://www.producthunt.com/posts/apptopia) - Competitive intelligence for the mobile app economy.
 * [Flurry](https://www.flurry.com/) - App analytics for iOS & Android.
