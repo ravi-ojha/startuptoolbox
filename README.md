@@ -686,6 +686,7 @@ via Amazon SES.
 * [Sistrix](https://www.sistrix.com/) - A premier tool used by SEO professionals.
 * [AdvancedWebRanking](https://www.advancedwebranking.com/) - Fresh rankings daily, weekly and on demand. For desktop, mobile and local searches.
 * [Google Search Console](https://search.google.com/search-console) - Check indexing status and optimize visibility of your website.
+* [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer) - Free Claude Code plugin for site audits, link checks, content plans and schema markup.
 
 ### Keyword research tools
 
