@@ -576,6 +576,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Shoutem](https://new.shoutem.com/) [_[PH]_](https://www.producthunt.com/posts/shoutem-v5) - Create React Native, cross-platform mobile apps easily.
 * [Appgyver](https://www.appgyver.com/) [_[PH]_](https://www.producthunt.com/posts/appgyver-composer-2) - Visual builder for rapidly building enterprise apps.
 * [Appinstitute](https://appinstitute.com/) [_[PH]_](https://www.producthunt.com/posts/appinstitute) - Create iOS & Android apps quickly with no coding.
+* [IdeaMade](https://ideamade.ai/) - Build and publish web apps with AI, editable product blueprints, and version history.
 
 ### Comments as a service
 
