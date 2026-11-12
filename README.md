@@ -662,6 +662,7 @@ via Amazon SES.
 * [Rich email markup by Google](https://developers.google.com/gmail/markup/) - Increase user engagement with actions in emails.
 * [Sendy](https://sendy.co/) [_[PH]_](https://www.producthunt.com/posts/sendy-4) - Send newsletters, 100x cheaper via Amazon SES.
 * [UglyEmail](https://uglyemail.com/) [_[PH]_](https://www.producthunt.com/posts/ugly-email) - See if an email is being tracked before you open it in Gmail.
+* [They Sent It](https://theysentit.com/) - Free searchable archive of 2.5 million marketing emails from 75,000 brands.
 
 ### Blogging & publishing
 
