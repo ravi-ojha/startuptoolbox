@@ -786,7 +786,7 @@ via Amazon SES.
 
 * [Everflow](https://everflow.io/) - Affiliate and partner tracking platform.
 * [Strackr](https://strackr.com/) [_[PH]_](https://www.producthunt.com/posts/strackr) - Affiliate dashboard that pulls networks into one place.
-* [Marquorum](https://marquorum.com/) - Free affiliate network for creators who promote AI software. Track referrals, commissions and payouts.
+* [Marquorum](https://marquorum.com/) - Free affiliate network for creators who promote Agentic Services. Track referrals, commissions and payouts.
 ### Referral
 
 * [CloudSponge](https://www.cloudsponge.com/) - Contact importer for referral and invite flows.
