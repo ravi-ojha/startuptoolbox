@@ -922,6 +922,7 @@ via Amazon SES.
 * [SimpleNote](https://simplenote.com/) [_[PH]_](https://www.producthunt.com/posts/simplenote) - Fast, cross-platform notes.
 * [Tettra](https://tettra.co/) [_[PH]_](https://www.producthunt.com/posts/tettra-2-0) - Internal wiki for teams that live in Slack.
 * [OneNote](https://www.onenote.com) [_[PH]_](https://www.producthunt.com/posts/onenote-for-mac) - Notebooks from Microsoft.
+* [Glasp](https://glasp.co/) - Web and PDF highlighter with YouTube transcripts and AI summaries; exports notes to Markdown, Notion and Obsidian.
 ### Email inbox
 
 * [Superhuman](https://superhuman.com/) - Fast email client for teams that live in inbox.
