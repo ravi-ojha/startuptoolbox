@@ -341,6 +341,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Dwolla](https://www.dwolla.com/) - Payment platform for technologists.
 * [Paymentwall](https://www.paymentwall.com) - Payments platform to accept payments and prevent fraud.
 * [Fastspring](https://fastspring.com/) - Subscriptions & payments for companies selling software, content or apps online.
+* [LaunchAssetKit App Pricing Calculator](https://launchassetkit.com/app-pricing-calculator) - Free calculator that models subscription revenue, churn and break-even so indie developers can test app pricing before they commit.
 
 ## User analytics and reporting
 
