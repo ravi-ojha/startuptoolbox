@@ -718,6 +718,8 @@ via Amazon SES.
 * [Pardot by Salesforce](https://www.pardot.com/) - B2B marketing automation.
 * [Ortto](https://ortto.com/) - Visual marketing automation. Formerly Autopilot.
 * [Marketo by Adobe](https://www.marketo.com/) - ABM combined with industry-leading marketing automation.
+* [Cello](https://cello.so/) - Referral growth platform for B2B SaaS.
+
 
 ### Copy
 
