@@ -397,6 +397,7 @@ The curated, crowdsourced collection of tools for startup makers.
 
 * [Poindexter](https://getpoindexter.com/) [_[PH]_](https://www.producthunt.com/posts/poindexter-2) - Automated financial projections for startups.
 * [Paperworks](https://paperworks.io/) [_[PH]_](https://www.producthunt.com/posts/paperworks) - All your receipts, invoices, and payments in one place.
+* [DDScore](https://www.ddscore.ai/) - First-pass due diligence for private companies, with source cross-checks, evidence gaps, and follow-up questions.
 
 ## Automation
 
