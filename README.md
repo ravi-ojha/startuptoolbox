@@ -1111,6 +1111,7 @@ via Amazon SES.
 * [Indie Hackers](https://indiehackers.com) [_[PH]_](https://www.producthunt.com/posts/indie-hackers) - Community and stories from bootstrapped founders. 💙
 * [Places to Post a Startup](https://github.com/mmccaff/PlacesToPostYourStartup) - Community-maintained list of places to announce a launch.
 * [Startup Promotion List](https://github.com/trekhleb/promote-your-next-startup) - Another curated list of launch and promotion channels.
+* [RadarMakers](https://radarmakers.com) - Launch platform for indie makers, ranking live products by votes, ratings and comments.
 
 ## Other
 
