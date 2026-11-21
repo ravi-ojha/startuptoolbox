@@ -517,6 +517,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Scrapy](https://scrapy.org/) - An open source and collaborative framework for extracting the data from websites.
 * [Scraper Chrome Extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related) - Scraper gets data out of web pages and into spreadsheets.
 * [Web Scraper Chrome Extension](https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn) - Free web site data extraction tool.
+* [Keenable](https://keenable.ai/) - Web search and page fetch API for AI agents, with clean markdown output and hosted MCP server.
 
 ### Email services (SMTP and transactional)
 
