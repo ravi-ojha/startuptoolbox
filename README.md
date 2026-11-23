@@ -194,6 +194,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [RemoveBg](https://remove.bg) [_[PH]_](https://www.producthunt.com/posts/remove-bg) Remove the background of any image. API or online 💙
 * [EzGIF](https://ezgif.com/) [_[PH]_](https://www.producthunt.com/posts/ezgif) - Resize, crop, and edit GIFs in your browser 💙
 * [BannerSnack](https://www.bannersnack.com/) - The Original Online Banner Maker.
+* [BatchSet](https://batchset.com/) - Compress, resize and convert whole batches of product and marketing images in your browser.
 
 ### UI libraries
 
