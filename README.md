@@ -418,6 +418,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Remote](https://remote.com/) - Global employment and payroll for distributed teams.
 * [Gusto](https://gusto.com/) [_[PH]_](https://www.producthunt.com/posts/gusto-2) - Payroll, benefits, and HR.
 * [Jazzhr](https://www.jazzhr.com/) [_[PH]_](https://www.producthunt.com/posts/jazz-hr) - Streamline every stage of your recruitment process.
+* [Aethel](https://aethel.pro/for-companies) - AI interviewer for first-round interviews that tells candidates it is AI; one role free, more from $49 per month.
 
 ## Forms and surveys
 
