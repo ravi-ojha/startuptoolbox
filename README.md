@@ -719,6 +719,7 @@ via Amazon SES.
 * [Pardot by Salesforce](https://www.pardot.com/) - B2B marketing automation.
 * [Ortto](https://ortto.com/) - Visual marketing automation. Formerly Autopilot.
 * [Marketo by Adobe](https://www.marketo.com/) - ABM combined with industry-leading marketing automation.
+* [Revenue Scout](https://revenuescout.ai/) - Agentic Coworker for sales prospecting. Scout finds public posts from people who need what you sell and drafts replies for manual review and posting. Reply requests help Scout explore better search phrases.
 
 ### Copy
 
