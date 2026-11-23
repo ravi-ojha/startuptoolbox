@@ -370,6 +370,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Count.ly](https://count.ly/) [_[PH]_](https://www.producthunt.com/posts/countly-analytics) - Open source, enterprise mobile & web analytics platform.
 * [Woopra](https://www.woopra.com/) [_[PH]_](https://www.producthunt.com/posts/woopra) - Event tracking, funnels and cohort analysis in real time.
 * [Taplytics](https://taplytics.com/) [_[PH]_](https://www.producthunt.com/posts/taplytics) - A/B testing for mobile, web & more.
+* [TrustAnalytics](https://www.trustcomponent.com/en/products/analytics) - Cookieless web analytics with funnels, heatmaps and session replay, hosted in the EU.
 
 ### Mobile only
 
