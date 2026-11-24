@@ -169,6 +169,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Flowmapp](https://flowmapp.com/) [_[PH]_](https://www.producthunt.com/posts/flowmapp-3) - UX planning tool for creating a visual sitemap.
 * [Gloomaps](https://www.gloomaps.com/) - Visual sitemaps made easy.
 * [Moqups](https://moqups.com/) [_[PH]_](https://www.producthunt.com/posts/moqups) - Mockup and wireframing tool.
+* [Kite](https://kite.new/) - Agent-first design tool where Claude, Cursor or Codex draw editable layers through hosted MCP in the same file your team edits live.
 
 ### Logo and branding
 
