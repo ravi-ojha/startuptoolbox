@@ -461,6 +461,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Statuscake](https://www.statuscake.com/) [_[PH]_](https://www.producthunt.com/posts/statuscake) - Free unlimited website monitoring.
 * [Uptimerobot](https://uptimerobot.com/) [_[PH]_](https://www.producthunt.com/posts/uptime-robot-app) - Free uptime monitoring service.
 * [Instatus](https://instatus.com) [_[PH]_](https://producthunt.com/posts/instatus) – Quick and beautiful status page.
+* [Fivenines](https://fivenines.io/) - Hosted server and uptime monitoring with cron checks and status pages.
 
 ### Bug tracking
 
