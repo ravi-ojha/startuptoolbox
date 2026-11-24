@@ -324,6 +324,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Instabug](https://instabug.com/) [_[PH]_](https://www.producthunt.com/posts/instabug-2) - Bug reporting and in-app feedback for mobile apps.
 * [Canny](https://canny.io/) [_[PH]_](https://www.producthunt.com/posts/canny-3) - The easiest way to collect & manage feedback.
 * [Surfly](https://www.surfly.com/) [_[PH]_](https://www.producthunt.com/posts/surfly-2) - Simple, fast, and secure co-browsing.
+* [WishKit](https://www.wishkit.io) - In-app feature request board for iOS and web apps where users vote on features.
 
 ## Payments, billing and distribution
 
