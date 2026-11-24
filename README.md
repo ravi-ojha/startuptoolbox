@@ -341,6 +341,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Dwolla](https://www.dwolla.com/) - Payment platform for technologists.
 * [Paymentwall](https://www.paymentwall.com) - Payments platform to accept payments and prevent fraud.
 * [Fastspring](https://fastspring.com/) - Subscriptions & payments for companies selling software, content or apps online.
+* [AgentaOS](https://agentaos.ai/) - Merchant of record that AI agents can run over MCP, with payouts in countries Stripe does not support.
 
 ## User analytics and reporting
 
