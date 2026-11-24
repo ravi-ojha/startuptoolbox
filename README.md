@@ -499,6 +499,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Netlify](https://www.netlify.com/) [_[PH]_](https://www.producthunt.com/posts/netlify-cms) - Easily deploy modern static websites.
 * [GitLab Pages](https://about.gitlab.com/product/pages/) [_[PH]_](https://www.producthunt.com/posts/gitlab-pages) - Websites for your GitLab projects, groups, or user account.
 * [Linode](https://www.linode.com/) - Cloud-hosting, backup and other services.
+* [Prisma Compute](https://www.prisma.io/compute) - Host TypeScript apps next to Prisma Postgres.
 
 ### Auth
 
