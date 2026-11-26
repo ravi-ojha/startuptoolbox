@@ -529,6 +529,7 @@ The curated, crowdsourced collection of tools for startup makers.
 * [Mailjet](https://www.mailjet.com/) [_[PH]_](https://www.producthunt.com/posts/mailjet) - Send marketing and transactional emails with one account.
 * [Mandrill](http://www.mandrill.com/) - Mandrill is a transactional email API for Mailchimp users.
 * [Mail Trap](https://mailtrap.io/) [_[PH]_](https://www.producthunt.com/posts/mailtrap-io) - Fake SMTP. Send Test Emails without spamming real customers.
+* [Runearc](https://runearc.com/) - Email API that sends from your domain and receives replies into shared support inbox or inboxes created from code.
 
 ### Deploy
 
