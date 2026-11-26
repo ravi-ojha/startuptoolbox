@@ -800,6 +800,7 @@ via Amazon SES.
 * [ThinkWithGoogle](https://www.thinkwithgoogle.com/tools) - Marketing research tools and reports from Google.
 * [Applyzer](https://www.applyzer.com/) [_[PH]_](https://www.producthunt.com/posts/applyzer) - App Store ranking and keyword tracking.
 * [Appfollow](https://appfollow.io) [_[PH]_](https://www.producthunt.com/posts/appfollow-4-0) - App Store reviews, ASO, and competitor tracking.
+* [GamerScroll](https://gamerscroll.com/) - Free, no-login site saving App Store and Google Play top-grossing/free charts (US, Japan, Korea, Taiwan, China) and Steam concurrent players every day, with per-game rank history, country × store chart pages, and embeddable rank badges.
 ### Paid ads
 
 * [Goa.marketing](https://www.goa.marketing/) - Get actionable data insights on your paid Search in Google Ads.
