@@ -974,6 +974,7 @@ via Amazon SES.
 
 * [Namemesh](https://namemesh.com) [_[PH]_](https://www.producthunt.com/posts/name-mesh) - Domain-name ideas from keywords you already like. 💙
 * [Domainr](https://domainr.com/) [_[PH]_](https://www.producthunt.com/posts/domai-nr) - Fast domain-name search across many TLDs.
+* [BrandShield](https://brand.shipbastion.com/) - Free 78-TLD instant domain, RDAP, real aftermarket, typosquatting, and USPTO trademark checker.
 ### Naming
 
 * [Namechk](https://namechk.com/) [_[PH]_](https://www.producthunt.com/posts/namechk) - Check username and domain availability in one place.
